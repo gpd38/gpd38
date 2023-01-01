@@ -1,7 +1,7 @@
 ### Hi there. I am Gustavo 👋
 
 - 🔭 I'm currently working to acquire new knowledge and improve current ones.
-- 🌱 I'm studying Docker, C#, Frontend Development, Test Automation and SQL.
+- 🌱 I'm studying Docker, C#, Java, Frontend Development, Test Automation and SQL.
 - ⚡ Fun fact: I like ballroom dancing, arcade games and helping the community.
 - 📫 How to find me: Links below.
 
