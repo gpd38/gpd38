@@ -17,6 +17,3 @@
 <a href="https://codepen.io/gpd38" target="_blank">
   <img alt="Codepen URL" src="https://img.shields.io/badge/-Codepen-black?style=for-the-badge&logo=codepen">
 </a>
-
-##
-![Snake animation](https://github.com/gpd38/gpd38/blob/output/github-contribution-grid-snake.svg)
